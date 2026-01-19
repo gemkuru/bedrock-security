@@ -8,7 +8,7 @@
  * - Denial of service (excessive array lengths)
  *
  * @license MIT
- * @see https://github.com/bedrocklens/bedrock-security
+ * @see https://github.com/gemkuru/bedrock-security
  */
 
 // ============================================================================

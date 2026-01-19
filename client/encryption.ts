@@ -17,7 +17,7 @@
  * and all previously encrypted data becomes permanently inaccessible.
  *
  * @license MIT
- * @see https://github.com/bedrocklens/bedrock-security
+ * @see https://github.com/gemkuru/bedrock-security
  */
 
 // Configuration constants

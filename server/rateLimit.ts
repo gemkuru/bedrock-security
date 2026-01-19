@@ -7,7 +7,7 @@
  * Redis (e.g., Upstash) for distributed rate limiting.
  *
  * @license MIT
- * @see https://github.com/bedrocklens/bedrock-security
+ * @see https://github.com/gemkuru/bedrock-security
  */
 
 // ============================================================================

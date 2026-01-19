@@ -15,7 +15,7 @@
  * Store the key securely and consider a backup strategy.
  *
  * @license MIT
- * @see https://github.com/bedrocklens/bedrock-security
+ * @see https://github.com/gemkuru/bedrock-security
  */
 
 // ============================================================================
